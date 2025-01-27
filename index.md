@@ -6,7 +6,7 @@ title: CV | Unai Alaña
 Business Data Analytics & Data Science
 
 <div id="webaddress">
-<a href="mailto:unaialanaa@gmail.com">mailto:unaialanaa@gmail.com</a>
+<a href="mailto:unaialanaa@gmail.com">unaialanaa@gmail.com</a>
 |
 <i class="fa fa-github"></i> <a href="http://github.com/ualana">ualana</a>
 |
@@ -16,16 +16,16 @@ Business Data Analytics & Data Science
 
 ## Currently
 
-I'm a Senior Bioinformatics Scientist at [Illumina](http://www.illumina.com/), based at their R&D site near Cambridge in the UK. Here I work on solutions to key informatics hurdles in the sequencing space, such as efficient and automated bioinformatics data analysis. I enjoy solving hard problems by writing quality software, preferably leveraging modern programming languages, agile development practices and effective cloud services.
+Actualmente trabajo como **Técnico-Programador Analytics** en LABORAL Kutxa, una entidad financiera de referencia en el País Vasco. Me apasiona el mundo de los datos y entender cómo exprimirlos en distintos contextos para generar valor y tomar decisiones informadas. En mi rato libre me gusta andar en bici y tomar algo con mi grupo de amigos.
 
 ## Employment
 
-`2020-` 
-__Illumina, Inc.__ Senior Bioinformatics Scientist (software engineer and solutions architect). 
+`jul. 2024 - actualidad` 
+__LABORAL Kutxa__ Senior Bioinformatics Scientist (software engineer and solutions architect). 
 > My work includes integrating Illumina's best-in-class _DRAGEN_ bioinformatics analysis pipelines with our flagship cloud platforms (_BaseSpace Sequence Hub_ and _Illumina Connected Analytics_). I also develop public tools such as the BaseSpace Sequence Hub Commandline Interface, alongside many other internal software engineering projects ranging from bioinformatics scripts to web applications.
 
-`2015-20` 
-__Illumina, Inc.__ Bioinformatics Scientist (data scientist and statistical programmer).
+`sept. 2023 - jun. 2024` 
+__LABORAL Kutxa__ Becario (Departamento de Analytics).
 > I joined Illumina's R&D organisation in 2015 where I worked on a wide range of bioinformatics and data science projects. Some public-facing work focused on variant comparison and analysis tooling, and I also advanced the popular _Platinum Genomes_ gold-standard variant truthset by introducing novel validation methods.
 
 ## Technical skills
@@ -128,19 +128,7 @@ I entered Imperial College's [Summer Data Challenge](https://www.imperial.ac.uk/
 
 ## Awards
 
-MRC Capacity building scholarship (PhD fees + enhanced stipend)
-
-MRC Full postgraduate scholarship (MSc fees + stipend)
-
-ISCB computational biology Wikipedia competition 2013 ([doi:10.1371/journal.pcbi.1003242](http://dx.doi.org/10.1371/journal.pcbi.1003242); 2nd place)
-
-Imperial Create Lab's "Summer data challenge" ([summerdatachallenge.com](http://summerdatachallenge.com); 3rd place)
-
-Individual engagement grant from the Wikimedia Foundation to attend ISMB 2014
-
-Training accreditation for Wikimedia UK, the national chapter of the Wikimedia Foundation
-
-Front cover design selected for J. Comp. Chem. (34:22) ([doi:10.1002/jcc.23388](http://dx.doi.org/10.1002/jcc.23388))
+Datathon Open Data Bizkaia - Transformar Bizkaia a través de sus datos _(2º premio)_
 
 ## Placements
 
@@ -152,15 +140,15 @@ Worked for two summers on the Rfam database ([rfam.xfam.org](http://rfam.xfam.or
 ## Links
 
 <!-- fa are fontawesome, ai are academicons -->
-* <i class="fa fa-envelope"></i> <a href="mailto:ben@blm.io">ben@blm.io</a><br />
-* <i class="fa fa-github"></i> <a href="http://github.com/blmoore">blmoore</a><br />
-* <i class="fa fa-twitter"></i> <a href="http://twitter.com/benjaminlmoore">benjaminlmoore</a><br />
-* <i class="fa fa-linkedin"></i> <a href="https://www.linkedin.com/in/blmoore/">LinkedIn</a>
-* <i class="fa fa-stack-overflow"></i> <a href="http://stackoverflow.com/users/1274516/blmoore">StackOverflow</a>
+* <i class="fa fa-envelope"></i> <a href="mailto:unaialanaa@gmail.com">unaialanaa@gmail.com</a><br />
+* <i class="fa fa-github"></i> <a href="http://github.com/ualana">ualana</a><br />
+<!--* <i class="fa fa-twitter"></i> <a href="http://twitter.com/twitter">Twittter</a><br /> -->
+* <i class="fa fa-linkedin"></i> <a href="https://es.linkedin.com/in/unai-ala%C3%B1a)/">LinkedIn</a>
+<!-- * <i class="fa fa-stack-overflow"></i> <a href="http://stackoverflow.com/users/1274516/blmoore">StackOverflow</a>
 * <i class="fa fa-wikipedia"></i> <a href="https://en.wikipedia.org/wiki/User:Ben_Moore">Wikipedia Userpage</a><br />
 * <i class="ai ai-google-scholar"></i> <a href="http://scholar.google.com/citations?user=YMxsGpsAAAAJ">Google scholar</a>
 * <i class="ai ai-orcid"></i> <a href="https://orcid.org/0000-0002-4074-1933">ORCiD</a>
-* <i class="ai ai-figshare"></i> <a href="https://figshare.com/authors/Benjamin_Moore/99461">figshare</a>
+* <i class="ai ai-figshare"></i> <a href="https://figshare.com/authors/Benjamin_Moore/99461">figshare</a> -->
 
 ## References
 
