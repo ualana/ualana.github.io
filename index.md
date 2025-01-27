@@ -14,45 +14,43 @@ Business Data Analytics & Data Science
 </div>
 
 
-## Currently
+## Sobre mi
 
 Actualmente trabajo como **Técnico-Programador Analytics** en LABORAL Kutxa, una entidad financiera de referencia en el País Vasco. Me apasiona el mundo de los datos y entender cómo exprimirlos en distintos contextos para generar valor y tomar decisiones informadas. En mi rato libre me gusta andar en bici y tomar algo con mi grupo de amigos.
 
-## Employment
+## Empleo
 
-`jul. 2024 - actualidad` 
+`2024 - act.` 
 __LABORAL Kutxa__ Senior Bioinformatics Scientist (software engineer and solutions architect). 
 > My work includes integrating Illumina's best-in-class _DRAGEN_ bioinformatics analysis pipelines with our flagship cloud platforms (_BaseSpace Sequence Hub_ and _Illumina Connected Analytics_). I also develop public tools such as the BaseSpace Sequence Hub Commandline Interface, alongside many other internal software engineering projects ranging from bioinformatics scripts to web applications.
 
-`sept. 2023 - jun. 2024` 
+`2023 - 2024` 
 __LABORAL Kutxa__ Becario (Departamento de Analytics).
 > I joined Illumina's R&D organisation in 2015 where I worked on a wide range of bioinformatics and data science projects. Some public-facing work focused on variant comparison and analysis tooling, and I also advanced the popular _Platinum Genomes_ gold-standard variant truthset by introducing novel validation methods.
 
-## Technical skills
+## Skills
 
 * Python
-* Javascript (incl. Typescript, React)
 * R
-* Go
+* SQL
+* Power BI
+* Tableau
+* Looker (Google Data Studio)
+* Azure
 * AWS
-* UNIX
-* Cluster computing
+* Google Cloud
 * Docker
-* Git and GitHub
-* HTML and CSS
-* Bash
-* Agile development
+* Git & GitHub
+* HTML & CSS
+
 
 ## Education
 
-`2012-15`
-__University of Edinburgh__ Bioinformatics PhD (supervisors: Colin Semple and Stuart Aitken). My thesis was titled _Unravelling higher order chromatin organisation through statistical analysis_ and is available through the [Edinburgh Research Archive](https://www.era.lib.ed.ac.uk/handle/1842/22906).
+`2023`
+__University of Essex__ Data Science (_International Student Program_)
 
-`2011-12`
-__Imperial College London__ MSc Bioinformatics and Theoretical Systems Biology (_Distinction_)
-
-`2008-11`
-__University of York__ BSc Biology (_First class honours_)
+`2020-2024`
+__Universidad de Mondragon__ Business Data Analytics
 
 ### Certifications
 
@@ -60,7 +58,7 @@ __University of York__ BSc Biology (_First class honours_)
 
 ## Areas of expertise
 
-* Bioinformatics
+* Deep learning
 * Software development
 * Cloud engineering and automation
 * Single-page applications
@@ -128,7 +126,7 @@ I entered Imperial College's [Summer Data Challenge](https://www.imperial.ac.uk/
 
 ## Awards
 
-Datathon Open Data Bizkaia - Transformar Bizkaia a través de sus datos _(2º premio)_
+Datathon Open Data Bizkaia - Transformar Bizkaia a través de sus datos (_2º premio_)
 
 ## Placements
 
