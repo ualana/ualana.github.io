@@ -31,20 +31,19 @@ __LABORAL Kutxa__ Becario (Departamento de Analytics).
 ## Skills
 
 * Python
-* R
 * SQL
+* R
+* HTML & CSS
 * Power BI
 * Tableau
 * Looker (Google Data Studio)
 * Azure
-* AWS
-* Google Cloud
-* Docker
-* Git & GitHub
-* HTML & CSS
+* AWS (EC2)
+* Git & github
+* Salesforce.com
+* Salesforce Marketing Cloud
 
-
-## Education
+## Educación
 
 `2023`
 __University of Essex__ Data Science (_International Student Program_)
