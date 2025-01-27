@@ -1,16 +1,16 @@
 ---
 layout: cv
-title: Ben Moore's CV
+title: CV | Unai Alaña
 ---
-# Benjamin L. Moore
-Bioinformatics PhD and Solutions Architect
+# Unai Alaña Arranz
+Business Data Analytics & Data Science
 
 <div id="webaddress">
-<a href="mailto:ben@blm.io">ben@blm.io</a>
+<a href="mailto:unaialanaa@gmail.com">mailto:unaialanaa@gmail.com</a>
 |
-<i class="fa fa-github"></i> <a href="http://github.com/blmoore">blmoore</a>
+<i class="fa fa-github"></i> <a href="http://github.com/ualana">ualana</a>
 |
-<i class="fa fa-twitter"></i> <a href="http://twitter.com/benjaminlmoore">benjaminlmoore</a>
+<i class="fa fa-linkedin"></i> <a href="https://es.linkedin.com/in/unai-ala%C3%B1a">Unai Alaña</a>
 </div>
 
 
