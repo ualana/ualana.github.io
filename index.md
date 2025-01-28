@@ -21,7 +21,7 @@ Actualmente trabajo como **Técnico-Programador Analytics** en LABORAL Kutxa, un
 ## Empleo
 
 `2024-act.` 
-__LABORAL Kutxa__ Senior Bioinformatics Scientist (software engineer and solutions architect). 
+__LABORAL Kutxa__ Técnico-Programador Analytics (Departamento de Analytics). 
 > My work includes integrating Illumina's best-in-class _DRAGEN_ bioinformatics analysis pipelines with our flagship cloud platforms (_BaseSpace Sequence Hub_ and _Illumina Connected Analytics_). I also develop public tools such as the BaseSpace Sequence Hub Commandline Interface, alongside many other internal software engineering projects ranging from bioinformatics scripts to web applications.
 
 `2023-2024` 
@@ -52,6 +52,12 @@ __University of Essex__ Data Science (_International Student Program_)
 `2020-2024`
 __Universidad de Mondragon__ Business Data Analytics
 
+## Idiomas
+
+* Castellano (_Nativo_)
+* Euskara (_Nativo_)
+* English (_Cambridge C1 Advanced_)
+
 ### Premios
 
 `2022` Datathon Open Data Bizkaia - Transformar Bizkaia a través de sus datos (_2º posición_)
@@ -71,34 +77,34 @@ __Universidad de Mondragon__ Business Data Analytics
 ## Proyectos
 
 ### Universidad
-`2019`
-Krusche P, Trigg L, Boutros PC, Mason CE, De La Vega FM, __Moore BL__ _et al._ Best practices for benchmarking germline small-variant calls in human genomes. _Nature Biotechnology_, 37:555–56.
+`2024`
+**TFG** - Optimización del proceso analítico de datos en campañas de marketing (_LABORAL Kutxa_)
 
-`2017`
-Peluso S, Douglas A, Hill A, De Angelis C, __Moore BL__ _et al._ Fibroblast growth factors (FGFs) prime the limb specific Shh enhancer for chromatin changes that balance histone acetylation mediated by E26 transformation-specific (ETS) factors. _eLife_, 6:e28590.
+`2023`
+Optimización del consumo energético de una máquina de perfiladora industrial (_AR Shelving_)
 
-Eberle MA, Fritzilas E, Krusche P, Källberg M, __Moore BL__ _et al._ A reference data set of 5.4 million phased human variants validated by genetic inheritance from sequencing a three-generation 17-member pedigree. _Genome Research_, 27:157-164.
+`2023`
+Creación de conjuntos de prendas y recomendaciones a clientas mediante teoría de grafos (_Lookiero_)
 
-`2016`
-Yu N, Nützmann H-W, MacDonald JT, __Moore B__ _et al._ Delineation of metabolic gene clusters in plant genomes by chromatin signatures. _Nucleic Acids Research_, 44(5):2255-2265.
+`2022`
+Optimización de la valoración de productos financieros (_BBVA_)
 
-Welch L, Brooksbank C, Schwartz R, Morgan SL, Gaeta B, Kilpatrick AM, Meitchen D, __Moore BL__ _et al._ Applying, Evaluating and Refining Bioinformatics Core Competencies. _PLoS Compututational Biology_, 12(5): e1004943.
+`2022`
+Predicción de la posibilidad de quiebra/impago de deudas de una empresa (_Elkargi_)
 
-`2015`
-__Moore BL__ _et al._ Integrative modeling reveals the principles of multi-scale chromatin boundary formation in human nuclear organization. _Genome Biology_, 16:110.
+`2021`
+Sistema de recomendación analizando el comportamientos de clientes (_IKEA_)
 
-Fraser J, Ferrai C, Chiariello AM, Schueler M, Rito T, Laudanno G, Barbieri M, __Moore BL__ _et al._ Hierarchical folding and reorganization of chromosomes are linked to transcriptional changes in cellular differentiation. _Molecular systems biology_, 11:852.
+`2021`
+Segmentación de un conjunto de empresas pertenecientes a un mismo sector económico (_LABORAL Kutxa_)
 
-`2013`
-__Moore BL__ _et al._ High–quality protein backbone reconstruction from alpha carbons using Gaussian mixture models. _Journal of computational chemisty_, 34(22):1881-9.
-
-`2011`
-Gardner PP, Daub J, Tate J, __Moore BL__ _et al._ Rfam: Wikipedia, clans and the “decimal” release. _Nucleic acids research_, 39(S1):D141-5.
+`2021`
+Scouting y recomendación de jugadores de baloncesto (_Baskonia-Alavés Group_)
 
 ### Personal
 
-`2017`
-__Moore BL__, Semple CA. Crossing Borders: Modeling Approaches to Understand Chromatin Domains and Their Boundaries. _Epigenetics and Systems Biology_, 3:45-67.
+`2024`
+On progress
 
 ## Non-academic
 
@@ -125,10 +131,6 @@ I co-founded a usergroup for the R programming language in Edinburgh called Edin
 I entered Imperial College's [Summer Data Challenge](https://www.imperial.ac.uk/data-science/education/summer-data-challenge/) competition, where entrants analysed a given dataset and then proposed a startup idea based on their results. I developed a modelling technique to select housing areas for investment and was awarded third place: £2,000 and startup support from Imperial Create Lab. My entry can be seen at [blm.io/datarea](http://blm.io/datarea) and the code is shared on my github account.
 
 ## Placements
-
-`2010-11`
-__Wellcome Trust Sanger Institute__ (_Cambridge, UK_)
-Worked for two summers on the Rfam database ([rfam.xfam.org](http://rfam.xfam.org)) in the Bateman group
 
 
 ## Links
