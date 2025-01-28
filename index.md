@@ -20,11 +20,11 @@ Actualmente trabajo como **Técnico-Programador Analytics** en LABORAL Kutxa, un
 
 ## Empleo
 
-`2024 - act.` 
+`2024-act.` 
 __LABORAL Kutxa__ Senior Bioinformatics Scientist (software engineer and solutions architect). 
 > My work includes integrating Illumina's best-in-class _DRAGEN_ bioinformatics analysis pipelines with our flagship cloud platforms (_BaseSpace Sequence Hub_ and _Illumina Connected Analytics_). I also develop public tools such as the BaseSpace Sequence Hub Commandline Interface, alongside many other internal software engineering projects ranging from bioinformatics scripts to web applications.
 
-`2023 - 2024` 
+`2023-2024` 
 __LABORAL Kutxa__ Becario (Departamento de Analytics).
 > I joined Illumina's R&D organisation in 2015 where I worked on a wide range of bioinformatics and data science projects. Some public-facing work focused on variant comparison and analysis tooling, and I also advanced the popular _Platinum Genomes_ gold-standard variant truthset by introducing novel validation methods.
 
@@ -37,11 +37,12 @@ __LABORAL Kutxa__ Becario (Departamento de Analytics).
 * Power BI
 * Tableau
 * Looker (Google Data Studio)
-* Azure
-* AWS (EC2)
-* Git & github
+* Git
 * Salesforce.com
 * Salesforce Marketing Cloud
+* Linux
+* AWS (EC2)
+
 
 ## Educación
 
@@ -51,25 +52,25 @@ __University of Essex__ Data Science (_International Student Program_)
 `2020-2024`
 __Universidad de Mondragon__ Business Data Analytics
 
-### Certifications
+### Premios
 
-`2021-24` __AWS Certified Solutions Architect__ (_Associate_)
+`2022` Datathon Open Data Bizkaia - Transformar Bizkaia a través de sus datos (_2º posición_)
 
-## Areas of expertise
+## Frameworks
 
-* Deep learning
-* Software development
-* Cloud engineering and automation
-* Single-page applications
-* Population genomics
-* Machine learning
-* Data visualisation
-* Variant calling
-* Illumina sequencing data
+* Pandas
+* Tensorflow
+* Matplotlib
+* scikit-learn
+* SFMC
+* SSIS
+* Teradata
+* SQL Server
+* Office 365
 
-## Publications
+## Proyectos
 
-### Journal articles
+### Universidad
 `2019`
 Krusche P, Trigg L, Boutros PC, Mason CE, De La Vega FM, __Moore BL__ _et al._ Best practices for benchmarking germline small-variant calls in human genomes. _Nature Biotechnology_, 37:555–56.
 
@@ -94,7 +95,7 @@ __Moore BL__ _et al._ High–quality protein backbone reconstruction from alpha 
 `2011`
 Gardner PP, Daub J, Tate J, __Moore BL__ _et al._ Rfam: Wikipedia, clans and the “decimal” release. _Nucleic acids research_, 39(S1):D141-5.
 
-### Book chapters
+### Personal
 
 `2017`
 __Moore BL__, Semple CA. Crossing Borders: Modeling Approaches to Understand Chromatin Domains and Their Boundaries. _Epigenetics and Systems Biology_, 3:45-67.
@@ -123,10 +124,6 @@ I co-founded a usergroup for the R programming language in Edinburgh called Edin
 
 I entered Imperial College's [Summer Data Challenge](https://www.imperial.ac.uk/data-science/education/summer-data-challenge/) competition, where entrants analysed a given dataset and then proposed a startup idea based on their results. I developed a modelling technique to select housing areas for investment and was awarded third place: £2,000 and startup support from Imperial Create Lab. My entry can be seen at [blm.io/datarea](http://blm.io/datarea) and the code is shared on my github account.
 
-## Awards
-
-Datathon Open Data Bizkaia - Transformar Bizkaia a través de sus datos (_2º premio_)
-
 ## Placements
 
 `2010-11`
@@ -147,10 +144,6 @@ Worked for two summers on the Rfam database ([rfam.xfam.org](http://rfam.xfam.or
 <!-- * <i class="ai ai-orcid"></i> <a href="https://orcid.org/0000-0002-4074-1933">ORCiD</a> -->
 <!-- * <i class="ai ai-figshare"></i> <a href="https://figshare.com/authors/Benjamin_Moore/99461">figshare</a> -->
 
-## References
-
-Available on request.
-
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: Jan 2025 -->
