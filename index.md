@@ -50,12 +50,12 @@ __LABORAL Kutxa__ Becario (Departamento de Analytics).
 __University of Essex__ Data Science (_International Student Program_)
 
 `2020-2024`
-__Universidad de Mondragon__ Business Data Analytics
+__Universidad de Mondragon__ Grado en Business Data Analytics
 
 ## Idiomas
 
-* Castellano (_Nativo_)
-* Euskara (_Nativo_)
+* Castellano
+* Euskara
 * English (_Cambridge C1 Advanced_)
 
 ### Premios
@@ -79,6 +79,9 @@ __Universidad de Mondragon__ Business Data Analytics
 ### Universidad
 `2024`
 **TFG** - Optimización del proceso analítico de datos en campañas de marketing (_LABORAL Kutxa_)
+
+`2024`
+Construcción de un modelo de scoring y estimación de una PD PiT (_Management Solutions_)
 
 `2023`
 Optimización del consumo energético de una máquina de perfiladora industrial (_AR Shelving_)
@@ -112,26 +115,25 @@ On progress
 
 `2006–` Articles for _English Wikipedia_: European Nucleotide Archive, RNA thermometer, Toxin-antitoxin system and more ([en.wikipedia.org/wiki/User:Ben_Moore](https://en.wikipedia.org/wiki/User:Ben_Moore)).
 
-## Projects
+<!-- ## Projects -->
 
-### github
+<!-- ### github -->
 
-My [personal github account](https://github.com/blmoore) hosts my hobby development projects as well as listing contributions to open source tools. Examples include: shiny apps [blackspot](https://github.com/blmoore/blackspot) and [shinybrot](https://github.com/blmoore/shinybrot), as well as an R package hosted by CRAN ([mandelbrot](https://github.com/blmoore/mandelbrot)).
+<!-- My [personal github account](https://github.com/blmoore) hosts my hobby development projects as well as listing contributions to open source tools. Examples include: shiny apps [blackspot](https://github.com/blmoore/blackspot) and [shinybrot](https://github.com/blmoore/shinybrot), as well as an R package hosted by CRAN ([mandelbrot](https://github.com/blmoore/mandelbrot)). -->
 
-### blog
+<!-- ### blog -->
 
-I write a data science blog at [blm.io](http://blm.io/blog) where I apply R and Python to open datasets and write-up the results. My posts have been featured by sites including FiveThirtyEight, BuzzFeed, AVclub, io9 and more, and also led to being an invited blogger at the Huffington Post. My original wordpress blog ([benjaminlmoore.wordpress.com](http://benjaminlmoore.wordpress.com)) has received over 150,000 unique visitors from 180 countries.
+<!-- I write a data science blog at [blm.io](http://blm.io/blog) where I apply R and Python to open datasets and write-up the results. My posts have been featured by sites including FiveThirtyEight, BuzzFeed, AVclub, io9 and more, and also led to being an invited blogger at the Huffington Post. My original wordpress blog ([benjaminlmoore.wordpress.com](http://benjaminlmoore.wordpress.com)) has received over 150,000 unique visitors from 180 countries. -->
 
-### EdinbR
+<!-- ### EdinbR -->
 
-I co-founded a usergroup for the R programming language in Edinburgh called EdinbR. I helped to organise our monthly meetings and built our website: [edinbr.org](http://edinbr.org). Our meetings attract 30-50 statisticians, data scientists and developers for talks and discussion about the R language and its applications. We're sponsored by Revolution Analytics and have an organisational github account at [github.com/EdinbR](https://github.com/EdinbR).
+<!-- I co-founded a usergroup for the R programming language in Edinburgh called EdinbR. I helped to organise our monthly meetings and built our website: [edinbr.org](http://edinbr.org). Our meetings attract 30-50 statisticians, data scientists and developers for talks and discussion about the R language and its applications. We're sponsored by Revolution Analytics and have an organisational github account at [github.com/EdinbR](https://github.com/EdinbR). -->
 
-### datarea
+<!-- ### datarea -->
 
-I entered Imperial College's [Summer Data Challenge](https://www.imperial.ac.uk/data-science/education/summer-data-challenge/) competition, where entrants analysed a given dataset and then proposed a startup idea based on their results. I developed a modelling technique to select housing areas for investment and was awarded third place: £2,000 and startup support from Imperial Create Lab. My entry can be seen at [blm.io/datarea](http://blm.io/datarea) and the code is shared on my github account.
+<!-- I entered Imperial College's [Summer Data Challenge](https://www.imperial.ac.uk/data-science/education/summer-data-challenge/) competition, where entrants analysed a given dataset and then proposed a startup idea based on their results. I developed a modelling technique to select housing areas for investment and was awarded third place: £2,000 and startup support from Imperial Create Lab. My entry can be seen at [blm.io/datarea](http://blm.io/datarea) and the code is shared on my github account. -->
 
-## Placements
-
+<!-- ## Placements -->
 
 ## Links
 
