@@ -43,6 +43,17 @@ __LABORAL Kutxa__ Becario (Departamento de Analytics).
 * Linux
 * SQL Server / Teradata
 
+### Frameworks
+
+* Pandas
+* Tensorflow
+* Matplotlib
+* scikit-learn
+* Flask
+* PySpark
+* PyTorch
+* SSIS (DTS)
+* Office
 
 ## Educación
 
@@ -57,22 +68,6 @@ __Universidad de Mondragon__ Grado en Business Data Analytics
 * Castellano
 * Euskara
 * English (_Cambridge C1 Advanced_)
-
-### Premios
-
-`2022` Datathon Open Data Bizkaia - Transformar Bizkaia a través de sus datos (_2º posición_)
-
-## Frameworks
-
-* Pandas
-* Tensorflow
-* Matplotlib
-* scikit-learn
-* Flask
-* PySpark
-* PyTorch
-* SSIS (DTS)
-* Office
 
 ## Proyectos
 
@@ -108,6 +103,10 @@ Scouting y recomendación de jugadores de baloncesto (_Baskonia-Alavés Group_)
 
 `2024`
 On progress
+
+## Premios
+
+`2022` Datathon Open Data Bizkaia - Transformar Bizkaia a través de sus datos (_2º posición_)
 
 <!-- ## Non-academic -->
 
