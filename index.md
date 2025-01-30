@@ -26,7 +26,7 @@ __LABORAL Kutxa__ Técnico-Programador Analytics (Departamento de Analytics).
 
 `2023-2024` 
 __LABORAL Kutxa__ Becario (Departamento de Analytics).
-> I joined Illumina's R&D organisation in 2015 where I worked on a wide range of bioinformatics and data science projects. Some public-facing work focused on variant comparison and analysis tooling, and I also advanced the popular _Platinum Genomes_ gold-standard variant truthset by introducing novel validation methods.
+> Durante mi estancia de prácticas en el Departamento de Analytics en LABORAL Kutxa tuve la oportunidad de tener mi primera toma de contacto con el análisis de datos en el mundo laboral. Mis principales tareas consistieron en la adaptación al entorno de Salesforce, generación de consultas _ad hoc_, generación y mantenimiento de tablas en entornos como Terada o SQL, y la generación de informes para medir el impacto de diferentes campañas de marketing lanzadas a través de Marketing Cloud, entre otras tareas. Además, realicé mi Trabajo de Fin de Grado: "Optimización del proceso analítico de datos en campañas de marketing".
 
 ## Skills
 
