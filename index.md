@@ -22,11 +22,11 @@ Actualmente trabajo como **Técnico-Programador Analytics** en LABORAL Kutxa, un
 
 `2024-act.` 
 __LABORAL Kutxa__ Técnico-Programador Analytics (Departamento de Analytics). 
-> My work includes integrating Illumina's best-in-class _DRAGEN_ bioinformatics analysis pipelines with our flagship cloud platforms (_BaseSpace Sequence Hub_ and _Illumina Connected Analytics_). I also develop public tools such as the BaseSpace Sequence Hub Commandline Interface, alongside many other internal software engineering projects ranging from bioinformatics scripts to web applications.
+> Consultas _ad hoc_ para distintas áreas de la entidad, generación y mantenimiento de procesos de migración de datos, elaboración de procesos ETL, administración de Salesforce (cargas y descargas masivas de datos), explotación de la herramienta Marketing Cloud, y más tareas.
 
 `2023-2024` 
 __LABORAL Kutxa__ Becario (Departamento de Analytics).
-> Durante mi estancia de prácticas en el Departamento de Analytics en LABORAL Kutxa tuve la oportunidad de tener mi primera toma de contacto con el análisis de datos en el mundo laboral. Mis principales tareas consistieron en la adaptación al entorno de Salesforce, generación de consultas _ad hoc_, generación y mantenimiento de tablas en entornos como Terada o SQL, y la generación de informes para medir el impacto de diferentes campañas de marketing lanzadas a través de Marketing Cloud, entre otras tareas. Además, realicé mi Trabajo de Fin de Grado: "Optimización del proceso analítico de datos en campañas de marketing".
+> Mis principales tareas como estudiante en prácticas consistieron en la adaptación al entorno de Salesforce, la generación de consultas _ad hoc_ para distintas áreas de la entidad, la creación y mantenimiento de tablas en entornos como Terada o SQL, y la generación de informes para medir el impacto de diferentes campañas de marketing lanzadas a través de Marketing Cloud, entre otras tareas. También tuve la oportunidad de realizar mi Trabajo de Fin de Grado: "Optimización del proceso analítico de datos en campañas de marketing".
 
 ## Skills
 
@@ -109,11 +109,11 @@ Scouting y recomendación de jugadores de baloncesto (_Baskonia-Alavés Group_)
 `2024`
 On progress
 
-## Non-academic
+<!-- ## Non-academic -->
 
-`2014` Pieces in _The Huffington Post_ (US): Here Are the Most Overrated and Underrated Movies of All Time; Celebrity Twitter Followers, by Gender ([huffingtonpost.com/benjamin-moore](http://www.huffingtonpost.com/benjamin-moore/))
+<!-- `2014` Pieces in _The Huffington Post_ (US): Here Are the Most Overrated and Underrated Movies of All Time; Celebrity Twitter Followers, by Gender ([huffingtonpost.com/benjamin-moore](http://www.huffingtonpost.com/benjamin-moore/)) -->
 
-`2006–` Articles for _English Wikipedia_: European Nucleotide Archive, RNA thermometer, Toxin-antitoxin system and more ([en.wikipedia.org/wiki/User:Ben_Moore](https://en.wikipedia.org/wiki/User:Ben_Moore)).
+<!-- `2006–` Articles for _English Wikipedia_: European Nucleotide Archive, RNA thermometer, Toxin-antitoxin system and more ([en.wikipedia.org/wiki/User:Ben_Moore](https://en.wikipedia.org/wiki/User:Ben_Moore)). -->
 
 <!-- ## Projects -->
 
