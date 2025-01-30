@@ -22,11 +22,11 @@ Actualmente trabajo como **Técnico-Programador Analytics** en LABORAL Kutxa, un
 
 `2024-act.` 
 __LABORAL Kutxa__ Técnico-Programador Analytics (Departamento de Analytics). 
-> Consultas _ad hoc_ para distintas áreas de la entidad, generación y mantenimiento de procesos de migración de datos, elaboración de procesos ETL, administración de Salesforce (cargas y descargas masivas de datos), explotación de la herramienta Marketing Cloud, y más tareas.
+> Consultas _ad hoc_ para distintas áreas de la entidad, generación y mantenimiento de procesos de migración de datos, elaboración de procesos ETL, administración de Salesforce (cargas y descargas masivas de datos), explotación de la herramienta Marketing Cloud, y otras tareas.
 
 `2023-2024` 
 __LABORAL Kutxa__ Becario (Departamento de Analytics).
-> Mis principales tareas como estudiante en prácticas consistieron en la adaptación al entorno de Salesforce, la generación de consultas _ad hoc_ para distintas áreas de la entidad, la creación y mantenimiento de tablas en entornos como Terada o SQL, y la generación de informes para medir el impacto de diferentes campañas de marketing lanzadas a través de Marketing Cloud, entre otras tareas. También tuve la oportunidad de realizar mi Trabajo de Fin de Grado: "Optimización del proceso analítico de datos en campañas de marketing".
+> Formación y adaptación al entorno de Salesforce, realización de consultas _ad hoc_ para distintas áreas de la entidad, creación y mantenimiento de tablas en entornos como Terada o SQL Server, generación de informes para la medición del impacto de diferentes campañas de marketing lanzadas a través de Marketing Cloud, y otras tareas. Elaboración de mi Trabajo de Fin de Grado: "Optimización del proceso analítico de datos en campañas de marketing".
 
 ## Skills
 
@@ -38,10 +38,10 @@ __LABORAL Kutxa__ Becario (Departamento de Analytics).
 * Tableau
 * Looker (Google Data Studio)
 * Git
-* Salesforce.com
-* Salesforce Marketing Cloud
+* Docker
+* Salesforce / Marketing Cloud
 * Linux
-* AWS (EC2)
+* SQL Server / Teradata
 
 
 ## Educación
@@ -68,11 +68,11 @@ __Universidad de Mondragon__ Grado en Business Data Analytics
 * Tensorflow
 * Matplotlib
 * scikit-learn
-* SFMC
-* SSIS
-* Teradata
-* SQL Server
-* Office 365
+* Flask
+* PySpark
+* PyTorch
+* SSIS (DTS)
+* Office
 
 ## Proyectos
 
