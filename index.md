@@ -14,7 +14,7 @@ Business Data Analytics & Data Science
 </div>
 
 
-## Sobre mi
+## Sobre mí
 
 Actualmente trabajo como **Técnico-Programador Analytics** en LABORAL Kutxa, una entidad financiera de referencia en el País Vasco. Me apasiona el mundo de los datos y entender cómo exprimirlos en distintos contextos para generar valor y tomar decisiones informadas. En mi rato libre me gusta andar en bici y tomar algo con mi grupo de amigos.
 
@@ -22,11 +22,11 @@ Actualmente trabajo como **Técnico-Programador Analytics** en LABORAL Kutxa, un
 
 `2024-act.` 
 __LABORAL Kutxa__ Técnico-Programador Analytics (Departamento de Analytics). 
-> Consultas _ad hoc_ para distintas áreas de la entidad, generación y mantenimiento de procesos de migración de datos, elaboración de procesos ETL, administración de Salesforce (cargas y descargas masivas de datos), explotación de la herramienta Marketing Cloud, y otras tareas.
+> Consultas _ad hoc_ para distintas áreas de la entidad, generación y mantenimiento de procesos de migración de datos, elaboración de procesos ETL, administración de Salesforce (cargas y descargas masivas de datos), explotación de la herramienta Marketing Cloud, etc.
 
 `2023-2024` 
 __LABORAL Kutxa__ Becario (Departamento de Analytics).
-> Formación y adaptación al entorno de Salesforce, realización de consultas _ad hoc_ para distintas áreas de la entidad, creación y mantenimiento de tablas en entornos como Terada o SQL Server, generación de informes para la medición del impacto de diferentes campañas de marketing lanzadas a través de Marketing Cloud, y otras tareas. Elaboración de mi Trabajo de Fin de Grado: "Optimización del proceso analítico de datos en campañas de marketing".
+> Formación y adaptación al entorno de Salesforce, realización de consultas _ad hoc_ para distintas áreas de la entidad, creación y mantenimiento de tablas en entornos como Terada o SQL Server, generación de informes para la medición del impacto de diferentes campañas de marketing lanzadas a través de Marketing Cloud, etc. Elaboración de mi Trabajo de Fin de Grado: "Optimización del proceso analítico de datos en campañas de marketing".
 
 ## Skills
 
